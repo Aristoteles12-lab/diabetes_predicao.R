@@ -1,7 +1,6 @@
 
 # ------------------------------------------
 # Predição de Diabetes com R
-# Autor: [Seu Nome Aqui]
 # ------------------------------------------
 
 # 1. Carregamento de bibliotecas
